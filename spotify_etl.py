@@ -40,7 +40,6 @@ def run_spotify_etl():
     token = 'YOUR_TOKEN'
 
     # Extract
-
     headers = {
         "Accept": "application/json",
         "Content-Type": "application/json",
