@@ -36,8 +36,8 @@ def refresh(self):
 
 
 def run_spotify_etl():
-    database = "sqlite:///my_played_tracks.sqlite"
-    token = 'BQCXdJ7EljRz-3x7O5k-7XmaJCA6PN_cK04OOoUs54Ih-mDISxuxRjc9JiQbU9kDdbZ6qlTvR4uz7mGEfi7G8oMTH3541b1zRzdIdMhGID0_fd2gfPjnrVIZ9h1E8I1lW9QDnBnfWq27YI7Tw-hIlz4q83or9tf1vpXP-ogMcT6S2gys1arKATSRV77pDSf9qhKFdsgd'
+    database = "sqlite:///YOUR_NAME.sqlite"
+    token = 'YOUR_TOKEN'
 
     # Extract
 
